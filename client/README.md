@@ -1,3 +1,12 @@
+#mCash Landing Page
+
+This is a completly responsive Landing page developed using ReactJs.
+With built-in function such as Menu and uses Carousel for better user interface. 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
