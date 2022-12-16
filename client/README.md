@@ -4,10 +4,10 @@ This is a completly responsive Landing page developed using ReactJs.
 With built-in function such as Menu and uses Carousel for better user interface. 
 
 # Home & Offers
-<img width="239" alt="image" src="https://user-images.githubusercontent.com/103405266/208198839-8e036685-3981-4a36-bf1a-df7b39841343.png">
+<img width="339" alt="image" src="https://user-images.githubusercontent.com/103405266/208198839-8e036685-3981-4a36-bf1a-df7b39841343.png">
 
 # Some more...
-<img width="239" alt="image" src="https://user-images.githubusercontent.com/103405266/208198925-1e17b75b-df36-4926-be11-ad8ada393311.png">
+<img width="339" alt="image" src="https://user-images.githubusercontent.com/103405266/208198925-1e17b75b-df36-4926-be11-ad8ada393311.png">
 
 
 
